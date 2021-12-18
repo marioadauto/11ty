@@ -2,11 +2,25 @@
 title: Mario Silva - Frontend Developer
 layout: about.njk
 name: Mario Silva - Frontend Developer
-image: '/images/me.jpeg'
+image: '/images/mariosilva.jpeg'
 ---
 
-I'm a frontend developer based in Copenhagen passionate about UX design. I have been building websites for almost five years and have always been excited about making pixel-perfect apps, however I rarely had the opportunity to share my ideas and contribute to the design process as a software engineer.
 
-I would love to change that and step closer into the world of UX/UI! Having a computer science background, I can easily identify the technical limitations when prototyping a solution and come up with feasible designs. Constantly improving user interfaces is the thing I find most rewarding in the web development world.
+Hi, I'm Mario Silva, a professional front-end engineer based in Copenhagen originally from Rio de Janeiro, Brazil.
 
-Send me a message if you would like to connect 😄
+Results-oriented dedicated to creating and optimizing interactive, user-friendly, feature-rich and Agile enthusiast websites.
+
+Focused on creating innovative solutions in collaboration with different sectors in order to bring a visible result.
+
+A big believer in data-driven decision making.
+
+Expertise in E-commerce, focusing on performance, UI and UX with advanced insights into any aspect of the business.
+
+I have several hobbies, some of them are watching and keeping up with the latest technology. Always try to take care of your body and mind.
+
+The balance of both is the key to success.
+
+Practicing Stoicism with the Wim Hof ​​method is one of the things I recommend trying in your life.
+
+
+“The happiness of your life depends upon the quality of your thoughts.”―Marcus Aurelius

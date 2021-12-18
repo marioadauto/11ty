@@ -50,12 +50,7 @@
   </head>
   <body>
     <div class="layout-wrapper">
-    <div class="user-toggle">
-    <button class="[ toggle-button ] [ js-mode-toggle ]">
-      <span class="[ toggle-button__text ] [ js-mode-toggle-text ]"></span>
-      <span class="toggle-button__icon" aria-hidden="true"></span>
-    </button>
-  </div>
+    
 
       <header class="header">
         <div class="header__content">
@@ -88,7 +83,12 @@
             </nav>
 
           {% endif %}
-
+              <div class="user-toggle">
+    <button class="[ toggle-button ] [ js-mode-toggle ]">
+      <span class="[ toggle-button__text ] [ js-mode-toggle-text ]"></span>
+      <span class="toggle-button__icon" aria-hidden="true"></span>
+    </button>
+  </div>
         </div>
       </header>
 
@@ -129,15 +129,6 @@
               {% endfor %}
             {% endif %}
           </ul>
-
-          {% if site.showFooterAttribution %}
-            <p class="footer__attribution">
-          Created by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
-       Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
-        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
-            </p>
-          {% endif %}
 
         </div>
       </div>
