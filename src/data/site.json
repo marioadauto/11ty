@@ -1,5 +1,5 @@
 {
-  "name": "Eleventy Duo",
+  "name": "< Mario Silva />",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
@@ -10,8 +10,8 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "text": "Posts",
+      "url": "/posts",
       "external": false
     },
     {

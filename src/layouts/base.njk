@@ -11,11 +11,9 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
 
     <title>
-      {{  title  | escape }}
+    {{ site.name }}
       {% if title %}
-         | {{ site.name }}
-      {% else %}
-        {{ site.name }}
+         | {{  title  | escape }}
       {% endif %}
     </title>
 
@@ -49,18 +47,20 @@
       <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
     {% endif %}
 
-    {# Add mermaid -- start #}
-      <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-      <script>mermaid.initialize({startOnLoad:true});</script>
-    {# Add mermaid -- end #}
   </head>
   <body>
     <div class="layout-wrapper">
+    <div class="user-toggle">
+    <button class="[ toggle-button ] [ js-mode-toggle ]">
+      <span class="[ toggle-button__text ] [ js-mode-toggle-text ]"></span>
+      <span class="toggle-button__icon" aria-hidden="true"></span>
+    </button>
+  </div>
 
       <header class="header">
         <div class="header__content">
           <h1 class="site-title">
-            <a href={{ "/" | url }}>
+            <a title="{{site.name}} -- FrontEnd Developer" href={{ "/" | url }}>
               {{site.name}}
             </a>
           </h1>

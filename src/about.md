@@ -1,14 +1,12 @@
 ---
-title: About Aidan Charles Powell
+title: Mario Silva - Frontend Developer
 layout: about.njk
-name: Aidan Charles Powell
+name: Mario Silva - Frontend Developer
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+I'm a frontend developer based in Copenhagen passionate about UX design. I have been building websites for almost five years and have always been excited about making pixel-perfect apps, however I rarely had the opportunity to share my ideas and contribute to the design process as a software engineer.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+I would love to change that and step closer into the world of UX/UI! Having a computer science background, I can easily identify the technical limitations when prototyping a solution and come up with feasible designs. Constantly improving user interfaces is the thing I find most rewarding in the web development world.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+Send me a message if you would like to connect 😄
