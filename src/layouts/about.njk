@@ -4,6 +4,15 @@ layout: base.njk
 
 <div class="about">
   <h1>About {{ name }}</h1>
-  <img src="{{ image | url }}" alt="" class="about__image">
-  {{ content | safe }}
+  <section class="about__content">
+  <div class="about__image">
+    <img src="{{ image | url }}" alt="" class="about__image">
+  </div>
+  <div class="about__text">
+     {{ content | safe }}
+  </div>
+   
+ 
+    </section>
+ 
 </div>

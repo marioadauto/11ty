@@ -6,6 +6,7 @@ image: '/images/mariosilva.jpeg'
 ---
 
 
+
 Hi, I'm Mario Eduardo Silva, a professional front-end engineer originally from Rio de Janeiro, Brazil.
 
 Results-oriented dedicated to creating and optimizing interactive, user-friendly, feature-rich and Agile enthusiast websites.
@@ -29,10 +30,12 @@ Practicing Stoicism with the Wim Hof ​​method is one of the things I recomme
 <p>Vue.js | React | JS | CSS | HTML | PHP | Google Tag Manager | Google Data Studio | much more..</p> 
 
 
+
+
 <br />
 
 ### Languages and Tools:
-
+<p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
@@ -48,9 +51,9 @@ Practicing Stoicism with the Wim Hof ​​method is one of the things I recomme
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg" />
 <img align="left" alt="Google Tag Manager" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googletagmanager.svg" />
+</p>
 
-<br />
-<br />
+
 
 
 ### Connect with me:

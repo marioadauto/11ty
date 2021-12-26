@@ -66,6 +66,7 @@ a {
   text-decoration: inherit;
   transition: all 200ms linear;
   text-decoration: underline;
+  color: var(--text-color);
 }
 
 a:hover {
@@ -83,11 +84,6 @@ ol ol {
 ul {
   list-style-type: square;
   list-style-position: inside;
-}
-
-b,
-strong {
-  font-weight: 500;
 }
 
 table {

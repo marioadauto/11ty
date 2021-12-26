@@ -64,6 +64,7 @@ body {
   --button-background: var(--color-light-alpha);
   --button-color: var(--color-dark);
   --border-color: var(--color-light-alpha);
+  --invert: 100%;
 }
 
 

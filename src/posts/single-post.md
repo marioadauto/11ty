@@ -1,31 +1,20 @@
 ---
-title: Another simple post
-date: '2020-10-22'
-tags: [demo-content, simple-post]
+title: 2022 is coming!
+date: '2021-12-26'
+tags: [web-site, mario-silva, launch]
 description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse.
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
 
-## How about a `<blockquote>`?
+## After a long time putting it off, I finally launched my own website.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+Here I want to share articles and thoughts about technology, lifestyle and visions of what happens in the daily life of a programmer, expatriate and with an innovative mind.
 
-## Unordered list of stuff:
+I hope with time to transmit a little of what I have learned over the last 12 years, living in different countries, living with different cultures and learning different fields of technology in general.
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+Welcome and I hope soon to start sharing some series of posts about the subjects I read on a daily basis.
 
-## Ordered list:
 
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
+> No person has the power to have everything they want, but it is in their power not to want what they don’t have, and to cheerfully put to good use what they do have.
 
-Bitters bushwick schlitz, 3 wolf moon tofu hoodie beard bicycle rights truffaut keffiyeh sartorial.
-
-## Monospace Text wrapped in "pre" tags:
-
-<pre>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</pre>

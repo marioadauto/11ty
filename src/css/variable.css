@@ -1,5 +1,6 @@
 
 :root {
+  --invert: 0;
   --accent: #0074d9;
   --background: #ffffff;
   --color: rgb(41, 41, 41);

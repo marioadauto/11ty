@@ -1,3 +1,39 @@
 .about h1 {
   margin-bottom: 2rem;
 }
+
+.about__content{
+  display: grid;
+  padding: 2rem;
+  grid-template-columns: 300px 1fr;
+  gap: 1rem;
+  align-items: flex-start;
+  max-width: 100%;
+  margin: 0 auto;
+
+}
+.about__content img{
+  max-width: 100%;
+    height: auto;
+}
+.about__text h3{
+    clear: both;
+    
+} 
+.about__text img{
+  margin: 1rem;
+  filter: invert(var(--invert));
+}
+
+@media (max-width: 650px) {
+  .about__content {
+    display: block;
+    font-size: 80%;
+  }
+  .about__text {
+    position: relative;
+    margin: -3rem 0 0 0;
+    padding: 1rem;
+    background: color-mod(var(--background) alpha(80%));
+  }
+}
