@@ -3,6 +3,7 @@ title: Mario Eduardo Silva - Frontend Developer
 layout: about.njk
 name: Mario Eduardo Silva - Frontend Developer
 image: '/images/mariosilva.jpeg'
+description: 'About Mario Eduardo Silva - Frontend Developer'
 ---
 
 
