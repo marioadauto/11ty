@@ -1,9 +1,11 @@
 ---
 layout: home
-title: 'Mario Silva - Front End Developer'
+title: 'Mario Eduardo Silva - Front End Developer'
 ---
-<p>Hello there 👋  I'm </p>
-<h1>Mario Silva</h1>
-<h2>Software Engineer | Frontend Developer | Growth Hacker</h2>
+<p>👋 Hi, I'm </p>
+<h1>Mario Eduardo Silva</h1>
+<h2>Software Engineer, Frontend Developer, Growth Hacker and occasionally UX/Designer. </h2>
+<p><strong>Building websites since 2009</strong>. 👨🏻‍💻</p>
+<p>Sharing my views and knowledge.</p>
 
-Vue.js | React | JS | CSS | HTML | PHP | Google Tag Manager | Google Data Studio | more.. 
+

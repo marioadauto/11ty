@@ -109,7 +109,7 @@
                 {% endif %}
 
                 <li>
-                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
+                  <a title="{{ item.text }}" href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
                 </li>
               {% endfor %}
             {% endif %}
