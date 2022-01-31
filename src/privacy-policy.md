@@ -5,7 +5,24 @@ name: Mario Eduardo Silva - Frontend Developer
 description: "About Mario Eduardo Silva - Frontend Developer"
 ---
 
-<h1>Privacy Policy for Mario Silva</h1>
+<h1>Privacy Policy for Notícias do Vasco da Gama - NetVasco - Google Chrome Extension</h1>
+
+<p>
+ The Notícias do Vasco da Gama - NetVasco news extension does not use any user data. The intention of this extension is to make the user's life easier, we do not intend to collect more data.
+</p>
+
+<h2>Consent</h2>
+
+<p>
+  By using our extension, you hereby consent to our Privacy Policy and agree to
+  its terms.
+</p>
+
+<h2>Information we collect</h2>
+
+<p>The extension dont collect any information about the user</p>
+
+<h1>Privacy Policy for Mario Silva website</h1>
 
 <p>
   At Mario Eduardo, accessible from marioeduardo.com, one of our main priorities
